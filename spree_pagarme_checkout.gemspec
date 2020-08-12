@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'pagarme'
   spec.add_dependency 'spree_core', '~> 3.7.4'
-  spec.add_dependency 'spree_gateway', '~> 3.7.4'
+  spec.add_dependency 'spree_gateway', '~> 3.4.0'
   spec.add_dependency 'spree_auth_devise', '~> 3.5.0'
 
   spec.add_development_dependency "bundler", "~> 1.7"
